@@ -6,6 +6,3 @@ Author : Jayden Sinagra
 Supervisor :	Prof. Ing. Gianluca Valentino
 Co-Supervisor :	Prof. Ing. Victor Buttigieg
 		
-Submission Date : March 2024
-
-Degree : M.Sc. Telecommunications Engineering, University of Malta
